@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "evilthings",
+    "name": "Evil Things",
+    "description": "All new quests, items and baddies!",
+    "version": "0.1.0-SNAPSHOT",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Tom_The_Geek"],
+    "credits": "The internet!",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": [
+      { "model": "evilthings:block/green_crystal_ore" }
+    ]
+  }
+}
